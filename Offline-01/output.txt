@@ -1,0 +1,90 @@
+Bank Created; MD, S1, S2, C1, C2, C3, C4, C5 created
+Insufficient initial deposit for creating Fixed Deposit
+Fixed Deposit account for Alice Created; initial balance 500000.0$
+Invalid transaction; Deposit amount must be at least 50000.0$
+50000.0$ deposited; current balance 550000.0$
+Invalid transaction; Your deposit in no mature
+Invalid request; Your maximum allowable loan 100000.0$
+Loan request successful, sent for approval
+Current balance 550000.0$
+Transaction Closed for Alice
+Student account for Bob Created; initial balance 0.0$
+10000.0$ deposited; current balance 10000.0$
+10000.0$ deposited; current balance 20000.0$
+Invalid transaction; Your cannot withdraw more than 10000.0$ in one transaction
+Invalid request; Your maximum allowable loan 1000.0$
+Loan request successful, sent for approval
+Current balance 20000.0$
+Transaction Closed for Bob
+Savings account for John Created; initial balance 0.0$
+2000.0$ deposited; current balance 2000.0$
+Invalid transaction; Withdrawal result must be at least 1000.0$; current balance 2000.0$
+1000.0$ withdrawn; current balance 1000.0$
+Invalid request; Your maximum allowable loan 10000.0$
+Loan request successful, sent for approval
+Current balance 1000.0$
+Transaction Closed for John
+C1 active
+Operation Closed for C1
+S1 active, there are loan approvals pending
+Operation Closed for S1
+MD active, there are loan approvals pending
+Operation Closed for MD
+C2 active
+Alice’s current balance 550000.0$
+You don’t have permission for this operation
+You don’t have permission for this operation
+You don’t have permission for this operation
+Operation Closed for C2
+S2 active, there are loan approvals pending
+Bob’s current balance 20000.0$
+Loan for Alice Bob John approved.
+You don’t have permission for this operation
+You don’t have permission for this operation
+Operation Closed for S2
+MD active
+Operation Closed for MD
+Welcome back, Alice
+Current balance 650000.0$, loan 100000.0$
+Transaction Closed for Alice
+Welcome back, Bob
+Current balance 21000.0$, loan 1000.0$
+Transaction Closed for Bob
+Welcome back, John
+Current balance 11000.0$, loan 10000.0$
+Transaction Closed for John
+MD active
+Internal Fund 1571000.0$
+Operation Closed for MD
+1 year passed
+Welcome back, Alice
+Current balance 737000.0$, loan 100000.0$
+Transaction Closed for Alice
+Welcome back, Bob
+Current balance 21950.0$, loan 1000.0$
+Transaction Closed for Bob
+Welcome back, John
+Current balance 10600.0$, loan 10000.0$
+Transaction Closed for John
+MD active
+Internal Fund 1571000.0$
+Interest rate for Student accounts is changed to 7.5
+Interest rate for Savings accounts is changed to 12.5
+Interest rate for Fixed Deposits is changed to 17.5
+Internal Fund 1571000.0$
+Operation Closed for MD
+1 year passed
+Welcome back, Alice
+Current balance 855475.0$, loan 100000.0$
+Transaction Closed for Alice
+Welcome back, Bob
+Current balance 23496.25$, loan 1000.0$
+Transaction Closed for Bob
+Welcome back, John
+Current balance 10425.0$, loan 10000.0$
+Transaction Closed for John
+MD active
+Internal Fund 1571000.0$
+Operation Closed for MD
+
+

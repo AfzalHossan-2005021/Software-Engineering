@@ -1,0 +1,88 @@
+Create Alice Fixed 1000
+Create Alice Fixed 500000
+Deposit 1000
+Deposit 50000
+Withdraw 100
+Request 1000000
+Request 100000
+query
+close
+Create Bob Student 0
+Deposit 10000
+Deposit 10000
+Withdraw 15000
+Request 10000
+Request 1000
+Query
+Close
+Create John Savings 0
+Deposit 2000
+Withdraw 1500
+Withdraw 1000
+Request 100000
+Request 10000
+Query
+close
+Open C1
+Close
+Open S1
+Close
+Open MD
+Close
+Open C2
+Lookup Alice
+Approve
+Change Student 7.50
+See
+Close
+Open S2
+Lookup Bob
+Approve
+Change Savings 12.5
+See
+Close
+Open MD
+Close
+Open Alice
+Query
+Close
+Open Bob
+Query
+Close
+Open John
+Query
+Close
+Open MD
+See
+Close
+INC
+Open Alice
+Query
+Close
+Open Bob
+Query
+Close
+Open John
+Query
+Close
+Open MD
+See
+Change Student 7.5
+Change Savings 12.5
+Change Fixed 17.5
+See
+Close
+INC
+Open Alice
+Query
+Close
+Open Bob
+Query
+Close
+Open John
+Query
+Close
+Open MD
+See
+Close
+
